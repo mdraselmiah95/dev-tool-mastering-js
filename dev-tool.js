@@ -12,3 +12,4 @@ Use the HTML 5 nav tag instead of the ARIA role of navigation.
 console.log("regular log");
 console.error("user password is wrong");
 console.warn("Do not come in front of my special one");
+clear();
